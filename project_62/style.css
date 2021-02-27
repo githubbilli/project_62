@@ -1,0 +1,37 @@
+body{
+	text-align:center;
+	background-color: bisque;
+}
+img{
+	height: 200px;
+	width: 200px;
+}
+#saturn{
+	width: 250px;
+}
+.menu{
+	cursor: pointer;
+	list-style: none;
+	font-family: cursive;
+	z-index: 10;
+	position: absolute;
+	top: 10px;
+	right: 30px;
+}
+.links{
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-right: 9px;
+	padding-left: 9px;
+	float: left;
+	font-size: 20px;
+	font-family: cursive;
+	color: black;
+}
+.links:hover{
+	font-size: 25px;
+	background-color: dodgerblue;
+}
+.container{
+    background-color: bisque;
+}
